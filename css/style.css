@@ -1,0 +1,54 @@
+h1, u1,{
+    font-family: "Spicy Rice", serif;
+    font-style: normal;
+    color: aliceblue;
+}
+h1{
+    font-weight: 400;
+}
+a{
+    font-family: "Hina Mincho", serif;
+    font-weight: 600;
+    font-style: normal;
+    color: rgb(0, 0, 0); 
+}
+u1{
+    font-weight: 300;
+    color: rgb(97, 11, 11);
+}
+
+p , h4{
+    
+    font-family: "Hina Mincho", serif;
+    font-weight: 600;
+    font-style: normal;
+}
+html{
+    background-color: rgb(175, 174, 174);
+}
+
+body{
+    background-color: rgb(94, 94, 94);
+    margin: 0 auto;
+    padding: 30px;
+    width: 700;
+    height: 1000;
+    border: 5px solid black;
+}
+a:hover {
+    color: rgb(102, 49, 0);
+    
+}
+  
+img{
+    display: block;
+    margin: 0 auto;
+    width: 240;
+    height: 320;
+    float: right;
+    padding: 15px;
+    
+    
+    
+}
+  
